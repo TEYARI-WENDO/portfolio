@@ -1,0 +1,36 @@
+
+h1  {
+    text-align: center;
+}
+
+body {
+    background-image: url("images/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+    
+    h2 {
+    color:rebeccapurple;
+    text-align: center;
+    font-style: italic;
+}
+     ul {
+    text-align: center;
+    font-size:xx-large;
+    font-style:oblique;
+    font-weight: 900;
+    color: rebeccapurple;
+    }
+    /* nav{
+        display: inline-block;
+    } */
+    
+    nav ul{
+      list-style: none;  
+    }
+    #about me{
+    font-size: larger;
+    }
+
+    
